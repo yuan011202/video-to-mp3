@@ -9,7 +9,7 @@ source.include_patterns = ffmpeg
 
 version = 1.0
 
-requirements = python3,kivy==2.1.0,pyjnius==1.4.2
+requirements = python3,kivy==2.1.0,pyjnius==1.5.0
 
 orientation = portrait
 fullscreen = 0
